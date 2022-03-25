@@ -1,2 +1,2 @@
-# Progamas de for
+# Programas de for
 Mi primer repositorio
